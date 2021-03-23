@@ -93,9 +93,9 @@ INSERT INTO `Administracao` (`atual_administracao`) VALUES
 ("Wyatt K;Drake O;Mcneil P;"),
 ("Rice X;Mcleod D;Dale D;"),
 ("Glass E;Casey W;Harding T;"),
-("Sellers J;Bernard Z;Stout N;"),(
-  "Manning M;Carey U;Walls U;"),
-  ("Gilliam Y;Medina M;Swanson S;"),
-  ("Dickerson T;Drake D;Diaz X;"),
-  ("Manning X;Hebert H;Parker N;"),
-  ("England A;Hutchinson T;Merrill L;");
+("Sellers J;Bernard Z;Stout N;"),
+("Manning M;Carey U;Walls U;"),
+("Gilliam Y;Medina M;Swanson S;"),
+("Dickerson T;Drake D;Diaz X;"),
+("Manning X;Hebert H;Parker N;"),
+("England A;Hutchinson T;Merrill L;");
